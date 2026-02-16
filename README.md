@@ -67,7 +67,7 @@
 
 | Repository | Language | Last Commit | Description |
 |------------|----------|-------------|-------------|
-| [Layers](https://github.com/sgardoll/layers) | Dart | Feb 16, 2026 | AI-powered image layer extraction |
+| [Quickara](https://github.com/sgardoll/quickara) | Dart | Feb 16, 2026 | AI-powered image layer extraction |
 | [Custom code connect for flutterflow](https://github.com/sgardoll/CustomCodeConnectForFlutterFlow) | JavaScript | Feb 15, 2026 | AI-powered custom code generation for FlutterFlow |
 | [Elevenlabs convo](https://github.com/sgardoll/elevenlabsconvo) | Dart | Feb 10, 2026 | ElevenLabs Conversational AI 2.0 for FlutterFlow |
 | [Groq flutterflow](https://github.com/sgardoll/groqFlutterFlow) | Dart | Feb 6, 2026 | Groq AI models integration for FlutterFlow |
