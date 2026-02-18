@@ -11,7 +11,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://github.com/sgardoll/layers">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Layers" />
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Quickara" />
         <br />
         <b>Layers<br>AI</b>
       </a>
