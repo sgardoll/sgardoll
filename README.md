@@ -1,83 +1,58 @@
-### 🔥 Active Development
+# Stuart Gardoll 
+### Growth Operator & Technical Builder 🚀
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://github.com/sgardoll/CustomCodeConnectForFlutterFlow">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="CustomCode Connect" />
-        <br />
-        <b>Custom code<br>connect</b>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/sgardoll/layers">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Quickara" />
-        <br />
-        <b>Layers<br>AI</b>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/sgardoll/elevenlabsconvo">
-        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="ElevenLabs Convo" />
-        <br />
-        <b>Elevenlabs<br>convo</b>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/sgardoll/flutterflow_gemma">
-        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Gemma FF" />
-        <br />
-        <b>Flutterflow<br>gemma</b>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://github.com/sgardoll/groqFlutterFlow">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Groq FF" />
-        <br />
-        <b>Groq<br>flutterflow</b>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/sgardoll/embeddingGemmaFlutterFlow">
-        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Embedding Gemma" />
-        <br />
-        <b>Embedding<br>gemma</b>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/sgardoll/ContentCraft">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="ContentCraft" />
-        <br />
-        <b>Content<br>craft</b>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/sgardoll/Elevenlabs-Presto-Agent">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="Presto Agent" />
-        <br />
-        <b>Presto<br>agent</b>
-      </a>
-    </td>
-  </tr>
-</table>
+I build systems that acquire users, validate markets, and drive growth. My work sits at the intersection of rapid product development and measurable business outcomes. I don't just ship code; I ship solutions designed to scale.
 
-### 📚 Public Repositories
+Below is a curated look at my active architecture, heavily focused on AI integration, ecosystem acceleration, and rapid consumer validation.
 
-| Repository | Language | Last Commit | Description |
-|------------|----------|-------------|-------------|
-| [Quickara](https://github.com/sgardoll/quickara) | Dart | Feb 16, 2026 | AI-powered image layer extraction |
-| [Custom code connect for flutterflow](https://github.com/sgardoll/CustomCodeConnectForFlutterFlow) | JavaScript | Feb 15, 2026 | AI-powered custom code generation for FlutterFlow |
-| [Elevenlabs convo](https://github.com/sgardoll/elevenlabsconvo) | Dart | Feb 10, 2026 | ElevenLabs Conversational AI 2.0 for FlutterFlow |
-| [Groq flutterflow](https://github.com/sgardoll/groqFlutterFlow) | Dart | Feb 6, 2026 | Groq AI models integration for FlutterFlow |
-| [Image dreamer](https://github.com/sgardoll/image_dreamer) | TypeScript | Jan 23, 2026 | Real-time voice-to-image generation |
-| [TRMNL nightscout transport plugin](https://github.com/sgardoll/TRMNL-Nightscout-Transport-Plugin) | Liquid | Jan 23, 2026 | TRMNL dashboard plugin for glucose monitoring |
-| [Embedding gemma flutterflow](https://github.com/sgardoll/embeddingGemmaFlutterFlow) | Dart | Jan 22, 2026 | Text-to-vector embeddings using Gemma models |
-| [Lexity](https://github.com/sgardoll/lexity) | Dart | Jan 22, 2026 | Vocabulary expansion mobile app |
-| [Flutterflow gemma](https://github.com/sgardoll/flutterflow_gemma) | Dart | Jan 20, 2026 | Gemma 3 models for FlutterFlow |
-| [Elevenlabs presto agent](https://github.com/sgardoll/Elevenlabs-Presto-Agent) | JavaScript | Jan 7, 2026 | Pimoroni Presto + ElevenLabs AI agent |
-| [Lets build planner](https://github.com/sgardoll/letsBuildPlanner) | Dart | Jan 7, 2026 | Content creation calendar built with Dreamflow |
-| [Voice scroll](https://github.com/sgardoll/voiceScroll) | Dart | Jan 7, 2026 | Voice-activated teleprompter |
-| [Alchermix](https://github.com/sgardoll/alchermix) | HTML | Jan 7, 2026 | Business idea mashup mobile app |
-| [Content craft](https://github.com/sgardoll/ContentCraft) | TypeScript | Feb 5, 2026 | AI content workflow automation |
+---
+
+## 🛠 Strategic Pillars & Active Deployments
+
+### 1. Platform Enablement & Ecosystem Tooling
+*Building the infrastructure that reduces friction and accelerates time-to-market for other developers.*
+
+| Project | Stack | Business Value |
+|---------|-------|----------------|
+| **[Custom Code Connect for FlutterFlow](https://github.com/sgardoll/CustomCodeConnectForFlutterFlow)** | JavaScript | AI-powered code generation that directly eliminates developer friction in FlutterFlow. |
+| **[FlutterFlow Gemma](https://github.com/sgardoll/flutterflow_gemma)** | Dart | Localized Gemma 3 model integration, reducing dependency on costly cloud LLM calls. |
+| **[Groq FlutterFlow](https://github.com/sgardoll/groqFlutterFlow)** | Dart | Ultra-low latency AI model integration for real-time application responses. |
+| **[Embedding Gemma FlutterFlow](https://github.com/sgardoll/embeddingGemmaFlutterFlow)** | Dart | Text-to-vector pipeline enabling cost-effective, on-device RAG architectures. |
+| **[TRMNL Nightscout Plugin](https://github.com/sgardoll/TRMNL-Nightscout-Transport-Plugin)** | Liquid | Data transport plugin bridging critical health telemetry with dashboard UI. |
+
+### 2. Voice & Autonomous Agents
+*Developing specialized agents to automate high-friction workflows and scale operational efficiency.*
+
+| Project | Stack | Business Value |
+|---------|-------|----------------|
+| **[ElevenLabs Convo](https://github.com/sgardoll/elevenlabsconvo)** | Dart | Implementation of Conversational AI 2.0 to drive hands-free, high-retention user engagement. |
+| **[ElevenLabs Presto Agent](https://github.com/sgardoll/Elevenlabs-Presto-Agent)** | JavaScript | Hardware-integrated AI agent for Pimoroni Presto, moving AI out of the browser and into physical utility. |
+| **[Voice Scroll](https://github.com/sgardoll/voiceScroll)** | Dart | Voice-activated teleprompter tool designed for content creators and rapid video production. |
+
+### 3. Rapid Market Validation & Consumer Apps
+*Shipping minimum viable products to test acquisition channels, validate pain points, and measure retention.*
+
+| Project | Stack | Business Value |
+|---------|-------|----------------|
+| **[Lexity](https://github.com/sgardoll/lexity)** | Dart | Mobile vocabulary expansion tool testing consumer retention loops in the ed-tech space. |
+| **[Content Craft](https://github.com/sgardoll/ContentCraft)** | TypeScript | Workflow automation designed to drastically reduce overhead in AI content pipelines. |
+| **[Image Dreamer](https://github.com/sgardoll/image_dreamer)** | TypeScript | Real-time voice-to-image generation testing latency boundaries in generative UX. |
+| **[Quickara](https://github.com/sgardoll/quickara)** | Dart | AI-powered image layer extraction targeting workflow speed for designers. |
+| **[Let's Build Planner](https://github.com/sgardoll/letsBuildPlanner)** | Dart | Content creation calendar testing organizational utility for digital creators. |
+| **[Alchermix](https://github.com/sgardoll/alchermix)** | HTML | Business idea mashup app built for rapid concept ideation and brainstorming. |
+
+---
+
+## 🎯 The Growth Mindset
+Code is a liability until it has users. My approach to engineering is heavily filtered through a growth lens:
+1. **Validate First:** Build only what the market demands.
+2. **Optimize the Funnel:** Every UI component must serve user acquisition, retention, or monetization.
+3. **Ship and Measure:** Deploy rapidly, analyze the data, and ruthlessly cut what doesn't convert.
+
+## 🤝 Let's Talk Business
+I am always looking to connect with founders, operators, and technical teams who treat development as a growth lever rather than a cost center. 
+
+* [Connect on LinkedIn](https://linkedin.com/in/sgardoll)
+* [Follow my builds on GitHub](https://github.com/sgardoll)
+
+> *"Execution is the only metric that matters."*
