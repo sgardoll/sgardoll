@@ -43,13 +43,13 @@ Below is a curated look at my active architecture, heavily focused on AI integra
 
 ---
 
-## 🎯 The Growth Mindset
+## The Growth Mindset
 Code is a liability until it has users. My approach to engineering is heavily filtered through a growth lens:
 1. **Validate First:** Build only what the market demands.
 2. **Optimize the Funnel:** Every UI component must serve user acquisition, retention, or monetization.
 3. **Ship and Measure:** Deploy rapidly, analyze the data, and ruthlessly cut what doesn't convert.
 
-## 🤝 Let's Talk Business
+## Let's Talk Business
 I am always looking to connect with founders, operators, and technical teams who treat development as a growth lever rather than a cost center. 
 
 * [Connect on LinkedIn](https://linkedin.com/in/sgardoll)
