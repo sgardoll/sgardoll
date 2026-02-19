@@ -7,7 +7,7 @@ Below is a curated look at my active architecture, heavily focused on AI integra
 
 ---
 
-## 🛠 Strategic Pillars & Active Deployments
+## Strategic Pillars & Active Deployments
 
 ### 1. Platform Enablement & Ecosystem Tooling
 *Building the infrastructure that reduces friction and accelerates time-to-market for other developers.*
@@ -34,10 +34,10 @@ Below is a curated look at my active architecture, heavily focused on AI integra
 
 | Project | Stack | Business Value |
 |---------|-------|----------------|
+| **[Quickara](https://github.com/sgardoll/quickara)** | Dart | AI-powered image layer extraction targeting workflow speed for designers. |
 | **[Lexity](https://github.com/sgardoll/lexity)** | Dart | Mobile vocabulary expansion tool testing consumer retention loops in the ed-tech space. |
 | **[Content Craft](https://github.com/sgardoll/ContentCraft)** | TypeScript | Workflow automation designed to drastically reduce overhead in AI content pipelines. |
 | **[Image Dreamer](https://github.com/sgardoll/image_dreamer)** | TypeScript | Real-time voice-to-image generation testing latency boundaries in generative UX. |
-| **[Quickara](https://github.com/sgardoll/quickara)** | Dart | AI-powered image layer extraction targeting workflow speed for designers. |
 | **[Let's Build Planner](https://github.com/sgardoll/letsBuildPlanner)** | Dart | Content creation calendar testing organizational utility for digital creators. |
 | **[Alchermix](https://github.com/sgardoll/alchermix)** | HTML | Business idea mashup app built for rapid concept ideation and brainstorming. |
 
@@ -53,6 +53,6 @@ Code is a liability until it has users. My approach to engineering is heavily fi
 I am always looking to connect with founders, operators, and technical teams who treat development as a growth lever rather than a cost center. 
 
 * [Connect on LinkedIn](https://linkedin.com/in/sgardoll)
-* [Follow my builds on GitHub](https://github.com/sgardoll)
+* [Subscribe to my YouTube channel](https://www.youtube.com/channel/UCKMvp5dYkMO2rrU-fXpHfXw)
 
-> *"Execution is the only metric that matters."*
+
