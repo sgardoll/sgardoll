@@ -18,7 +18,8 @@ Below is a curated look at my active architecture, heavily focused on AI integra
 | **[FlutterFlow Gemma](https://github.com/sgardoll/flutterflow_gemma)** | Dart | Localized Gemma 3 model integration, reducing dependency on costly cloud LLM calls. |
 | **[Groq FlutterFlow](https://github.com/sgardoll/groqFlutterFlow)** | Dart | Ultra-low latency AI model integration for real-time application responses. |
 | **[Embedding Gemma FlutterFlow](https://github.com/sgardoll/embeddingGemmaFlutterFlow)** | Dart | Text-to-vector pipeline enabling cost-effective, on-device RAG architectures. |
-| **[TRMNL Nightscout Plugin](https://github.com/sgardoll/TRMNL-Nightscout-Transport-Plugin)** | Liquid | Data transport plugin bridging critical health telemetry with dashboard UI. |
+| **[TRMNL Health & Transport Dashboard](https://github.com/sgardoll/TRMNL-Nightscout-Transport-Plugin)** | Liquid | Multi-source ambient dashboard unifying health, calendar, transit, and weather data on a single TRMNL e-ink display — remix-ready reference for building multi-API plugins. |
+
 
 ### 2. Voice & Autonomous Agents
 *Developing specialized agents to automate high-friction workflows and scale operational efficiency.*
