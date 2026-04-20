@@ -19,6 +19,7 @@ Below is a curated look at my active architecture, heavily focused on AI integra
 | **[Groq FlutterFlow](https://github.com/sgardoll/groqFlutterFlow)** | Dart | Ultra-low latency AI model integration for real-time application responses. |
 | **[Embedding Gemma FlutterFlow](https://github.com/sgardoll/embeddingGemmaFlutterFlow)** | Dart | Text-to-vector pipeline enabling cost-effective, on-device RAG architectures. |
 | **[TRMNL Health & Transport Dashboard](https://github.com/sgardoll/TRMNL-Nightscout-Transport-Plugin)** | Liquid | Multi-source ambient dashboard unifying health, calendar, transit, and weather data on a single TRMNL e-ink display — remix-ready reference for building multi-API plugins. |
+| **[mailto.website](https://github.com/sgardoll/mailto-website)** | TypeScript | One Gmail account, many plus-aliases, many self-extending sites — turns email addressing conventions into auto-provisioned web presences. |
 
 
 ### 2. Voice & Autonomous Agents
@@ -29,12 +30,16 @@ Below is a curated look at my active architecture, heavily focused on AI integra
 | **[ElevenLabs Convo](https://github.com/sgardoll/elevenlabsconvo)** | Dart | Implementation of Conversational AI 2.0 to drive hands-free, high-retention user engagement. |
 | **[ElevenLabs Presto Agent](https://github.com/sgardoll/Elevenlabs-Presto-Agent)** | JavaScript | Hardware-integrated AI agent for Pimoroni Presto, moving AI out of the browser and into physical utility. |
 | **[Voice Scroll](https://github.com/sgardoll/voiceScroll)** | Dart | Voice-activated teleprompter tool designed for content creators and rapid video production. |
+| **[Parlance](https://github.com/sgardoll/parlance)** | TypeScript | French conversation simulator for tourists — fully immersive voice AI using ElevenLabs that replicates the real pressure of a Parisian café. |
 
 ### 3. Rapid Market Validation & Consumer Apps
 *Shipping minimum viable products to test acquisition channels, validate pain points, and measure retention.*
 
 | Project | Stack | Business Value |
 |---------|-------|----------------|
+| **[Read It](https://github.com/sgardoll/read_it)** | Dart | AI-powered article-to-audio app — paste a URL, get a natural TTS read with AI summary. Live on App Store and Play Store. |
+| **[Sundial](https://github.com/sgardoll/sundial)** | TypeScript | Minimalist clock that casts a real sundial shadow driven by the actual sun position. Shipped across iOS, Android, tvOS, and web from one codebase. |
+| **[AutoGlyph](https://github.com/sgardoll/AutoGlyph)** | Dart | AI image-to-font (OTF) generator — converts visual input into deployable typefaces. |
 | **[Quickara](https://github.com/sgardoll/quickara)** | Dart | AI-powered image layer extraction targeting workflow speed for designers. |
 | **[Lexity](https://github.com/sgardoll/lexity)** | Dart | Mobile vocabulary expansion tool testing consumer retention loops in the ed-tech space. |
 | **[Content Craft](https://github.com/sgardoll/ContentCraft)** | TypeScript | Workflow automation designed to drastically reduce overhead in AI content pipelines. |
@@ -55,5 +60,3 @@ I am always looking to connect with founders, operators, and technical teams who
 
 * [Connect on LinkedIn](https://linkedin.com/in/sgardoll)
 * [Subscribe to my YouTube channel](https://www.youtube.com/channel/UCKMvp5dYkMO2rrU-fXpHfXw)
-
-
