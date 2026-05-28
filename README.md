@@ -14,11 +14,11 @@ Below is a curated look at my active architecture, heavily focused on AI integra
 
 | Project | Stack | Business Value |
 |---------|-------|----------------|
-| **[mailto.website](https://github.com/sgardoll/mailto-website)** | TypeScript | Your inbox as a build trigger. mailto.website converts emails into living, interactive web experiences through a five-stage agentic workflow — no cloud, no API keys, nothing leaves your machine. |
 | **[Custom Code Connect for FlutterFlow](https://github.com/sgardoll/CustomCodeConnectForFlutterFlow)** | JavaScript | AI-powered code generation that directly eliminates developer friction in FlutterFlow. |
 | **[FlutterFlow Gemma](https://github.com/sgardoll/flutterflow_gemma)** | Dart | Localized Gemma 3 model integration, reducing dependency on costly cloud LLM calls. |
 | **[Groq FlutterFlow](https://github.com/sgardoll/groqFlutterFlow)** | Dart | Ultra-low latency AI model integration for real-time application responses. |
 | **[Embedding Gemma FlutterFlow](https://github.com/sgardoll/embeddingGemmaFlutterFlow)** | Dart | Text-to-vector pipeline enabling cost-effective, on-device RAG architectures. |
+| **[mailto.website](https://github.com/sgardoll/mailto-website)** | TypeScript | Your inbox as a build trigger. mailto.website converts emails into living, interactive web experiences through a five-stage agentic workflow — no cloud, no API keys, nothing leaves your machine. |
 | **[TRMNL Health & Transport Dashboard](https://github.com/sgardoll/TRMNL-Nightscout-Transport-Plugin)** | Liquid | Multi-source ambient dashboard unifying health, calendar, transit, and weather data on a single TRMNL e-ink display — remix-ready reference for building multi-API plugins. |
 
 
