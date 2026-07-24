@@ -2,9 +2,9 @@
 
 ### Growth engineer building AI integrations and developer tools
 
-I'm a former FlutterFlow and Universal operator. I work across product, engineering, and growth, mostly with early-stage teams. Give me an ambiguous product idea and I'll turn it into working software quickly, then scale it.
+I'm a former FlutterFlow and BuildShip engineer. I work across product, engineering, and growth, mostly with early-stage teams and founders. Give me an ambiguous product idea and I'll turn it into working software quickly, then help you scale it.
 
-I build developer tools that make app-building less tedious. Lately, that has meant connecting AI agents and custom environments to FlutterFlow, putting Gemma models on-device, and bringing real-time ElevenLabs voice systems to mobile apps. I also ship cross-platform products from design through the app stores.
+I build developer tools that make app-building less tedious. Lately, that has meant connecting AI agents and custom integrations into mobile apps, putting AI models on-device, and bringing real-time ElevenLabs voice agents to production-ready systems. I also ship cross-platform products from design through the app stores.
 
 ---
 
